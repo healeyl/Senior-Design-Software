@@ -6,7 +6,7 @@ Tactile Imaging Team
 Some code taken from Sensitronics Example Code for
 ShuntMode Matrix Sensor we are using.
 
-Pin definitions
+Pin definitions - Git test This shoudl worl
 ***********************************************/
 
 #define BAUD_RATE					115200
